@@ -1,0 +1,6 @@
+audio_data/
+activations/
+saved_models/
+wandb/
+temp_models/
+.env/

@@ -1,0 +1,7 @@
+transformers
+datasets
+soundfile
+librosa
+tqdm
+wandb
+plotly

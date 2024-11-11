@@ -1,0 +1,6 @@
+wget http://www.openslr.org/resources/12/dev-clean.tar.gz
+tar --no-same-owner -xzf dev-clean.tar.gz
+
+
+wget http://www.openslr.org/resources/12/train-clean-100.tar.gz
+tar --no-same-owner -xzf train-clean-100.tar.gz

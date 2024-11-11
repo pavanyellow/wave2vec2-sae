@@ -1,0 +1,25 @@
+Feedforward neurons:
+
+
+30 - wen,won
+33 - 'nat' phenotype (sensitive to nasal sounds)
+35 - after
+41 - 'tra' phenotype (sensitive to 'tra' sounds)
+47 - 'let me' token
+100 - 'himself' token
+
+
+SAE:
+55 - over
+62 - Mountain
+46 - 'ual' sound across various tokens like 'usual', 'actual' and 'equal'
+61 - 'take' token
+98 - 'mast' sound
+23 - 'sk' sound
+81 - 'that' token
+27 - 'an'/'ang' sound in various tokens
+17 - 'horse' 
+
+
+
+Not so interpetable : 45, 72 ('kah' sound?), 73 and many more.
